@@ -2,7 +2,7 @@
 <html>
 <head>
 <script>
-System.out.println("hello worldd");
+console.log("hello world);
 </script>
 </head>
 <body>
