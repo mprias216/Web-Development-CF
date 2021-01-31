@@ -1,3 +1,4 @@
+console.log('Hello world!');
 let name = 'Clarity Fitness';
 const greeting = `Good morning! Welcome to ${name}, What type of Workout would you want for today?`;
 let numberOfExercises = 50;
