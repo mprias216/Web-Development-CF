@@ -6,6 +6,7 @@ numberOfExercises = 3;
 
 const typesOfExercises = ['Pushups', 'Jumping Jacks', 'Wall Planks'];
 
+const today = new Date();
 todayIsWorkoutDay = true;
 const tomorrowIsWorkoutDay = false;
 
