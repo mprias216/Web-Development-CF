@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+
+let myDesc = {name: "Allan", age: 15, allergies: false};
+
+let isAdult = age < 18;
+
+const yourHobbies = ["Guitar", "Soccer", "Swimming"];
+
+</script>
+</head>
+<body>
+</html> 
